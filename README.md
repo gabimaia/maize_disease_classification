@@ -12,6 +12,6 @@ For this we will use WandB + TensorFlow+ FastAPI + Heroku.
 
 Students: Jordão Silva and Gabriel Maia
 
-Link to Medium Article: 
+Link to Medium Article: https://medium.com/@jordao.cassiano.009/use-w-b-and-tensorflow-to-obtain-a-disease-classification-model-in-maize-leaves-180c337ff3c2
 
-Link to Loom:
+Link to Loom: https://loom.com/share/0e3c392bd59244678a0cdfcd000557c0
