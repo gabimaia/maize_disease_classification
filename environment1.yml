@@ -1,0 +1,12 @@
+name: project2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy=1.21.5
+  - uvicorn=0.17.5
+  - requests=2.27.1
+  - fastapi=0.74.0
+  - scikit-learn=1.0.2
+  - python=3.8
+  - jupyterlab=3.2.9
