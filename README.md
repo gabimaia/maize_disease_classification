@@ -1,4 +1,4 @@
-# maize_disease_classification.
+# maize_disease_classification
 A Machine Learning model applied for maize disease classification
 
 ## Maize_disease_classification
